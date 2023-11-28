@@ -114,10 +114,15 @@ int x=0;
         }
         break;
 		}
+		do{
 		System.out.println();
            System.out.println("1.I want add to cart\n2.Search in Other Brands");
 	          x=sc.nextInt();
-			  
+			  if (x>2)
+			  {
+				  System.out.println("Invalid choice");
+			  }
+		}while(x>2);
                
 	 }while ( x==2);
 	 System.out.println("Enter the mobile ID you want Add");
