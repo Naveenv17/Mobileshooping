@@ -1,3 +1,1 @@
-# HI,I am Naveen V
-# I am Currently Learning Core Java,J2EE,Web Technologies
-# I am Looking For Software Developer Roles To KickStart My career.
+#Finished Java Programming Project Based On Mobile Shopping System that allows the user to search for mobile, select the brand, select the mobile, add to cart, display cart, generate bill.
